@@ -64,7 +64,7 @@
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-## Additional Resources for Design tips & methods
+#### Additional Resources for Design tips & methods
 - [Designing for accessibility top tips to get you started](https://www.w3.org/WAI/tips/designing/)
 
 - [Designing for accessibility top tips to get you started](https://www.interaction-design.org/literature/topics/accessibility)
