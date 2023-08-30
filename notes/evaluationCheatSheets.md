@@ -208,7 +208,7 @@ Even though it is preferable that your system can be used without documentation.
 </details>
 
 <a id="ben_section"></a>
-## Ben Shneidermann's 8 Golden Rules of Interface Design
+## Ben Shneidermann's 8 Golden Rules of Interface Design | [article](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces)
 
 ### 1. Strive for consistency
 <details close>
