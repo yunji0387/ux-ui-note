@@ -60,3 +60,5 @@
 ### [Evaluation Cheat Sheets](./notes/evaluationCheatSheets.md)
 
 ### [Design for Accessibility](./notes/designForAccessibility.md)
+
+### [Heuristic Evaluation Report](./notes/heuristic_evaluation_report.pdf) by [Manuel Ryan Espinsa](http://nolimitsgallery.webflow.io/)
