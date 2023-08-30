@@ -107,6 +107,10 @@
 </details>
 
 ### Navigation Best Practices
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+  
 #### User research
 - [Navigation menu icons : some nice examples](https://www.awwwards.com/31-examples-of-icons-in-navegation-menus.html)
 
@@ -115,3 +119,6 @@
 - [Usability Evaluation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/usability-evaluation)
 
 - [Evaluating interactive design](https://gayan1999malinda.medium.com/interaction-design-evaluation-methods-df8132cedbf9)
+
+<!-- /MarkdownTOC -->
+</details>
