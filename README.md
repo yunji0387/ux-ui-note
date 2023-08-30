@@ -57,6 +57,6 @@
 <!-- /MarkdownTOC -->
 </details>
 
-### [Evaluation Cheat Sheets](./evaluationCheatSheets.md)
+### [Evaluation Cheat Sheets](./notes/evaluationCheatSheets.md)
 
-### [Design for Accessibility](./designForAccessibility.md)
+### [Design for Accessibility](./notes/designForAccessibility.md)
