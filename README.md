@@ -56,3 +56,5 @@
 
 <!-- /MarkdownTOC -->
 </details>
+
+### [Evaluation Cheat Sheets](./evaluationCheatSheets.md)
