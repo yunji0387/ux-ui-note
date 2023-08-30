@@ -40,7 +40,7 @@
 - User research
   - [UI at its worst, an amusing but infuriating example of UI design .. Worth a look!](https://userinyerface.com/)
   - [A description on what Is UI Design](https://xd.adobe.com/ideas/process/ui-design/)
-  - [Bsic methodologies](https://www.usability.gov/what-and-why/user-research.html#:~:text=User%20research%20focuses%20on%20understanding,of%20design%20on%20an%20audience.%E2%80%9D)
+  - [Basic methodologies](https://www.usability.gov/what-and-why/user-research.html#:~:text=User%20research%20focuses%20on%20understanding,of%20design%20on%20an%20audience.%E2%80%9D)
 - Use [Figma](https://www.figma.com/) for design prototype
 
 <!-- /MarkdownTOC -->
