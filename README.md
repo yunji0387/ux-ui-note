@@ -86,7 +86,7 @@
 <!-- /MarkdownTOC -->
 </details>
 
-### [Form Design Practice](./notes/form_design_practice.md)
+### [Form Design Practices](./notes/form_design_practice.md)
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -105,3 +105,5 @@
 
 <!-- /MarkdownTOC -->
 </details>
+
+### Navigation Best Practices
