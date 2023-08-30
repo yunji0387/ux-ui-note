@@ -59,6 +59,8 @@
 
 ### [(User Research) Evaluation Cheat Sheets](./notes/evaluationCheatSheets.md)
 
+### [Heuristic Evaluation Report](./notes/heuristic_evaluation_report.pdf) by [Manuel Ryan Espinsa](http://nolimitsgallery.webflow.io/)
+
 ### [Design for Accessibility](./notes/designForAccessibility.md)
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
@@ -83,5 +85,3 @@
 
 <!-- /MarkdownTOC -->
 </details>
-
-### [Heuristic Evaluation Report](./notes/heuristic_evaluation_report.pdf) by [Manuel Ryan Espinsa](http://nolimitsgallery.webflow.io/)
