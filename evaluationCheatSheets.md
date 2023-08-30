@@ -1,4 +1,4 @@
-# Dieter Ram's 10 Principles of Good Design
+# Dieter Ram's 10 Principles of Good Design | [video](https://www.youtube.com/watch?v=4Cxr2h_wE34)
 ### 1. Good design is innovative
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
@@ -99,7 +99,7 @@ Design should always be intentional. Anything that doesn't serve a purpose for t
 <!-- /MarkdownTOC -->
 </details>
 
-# Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design
+# Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design | [video](https://www.youtube.com/watch?v=6Bw0n6Jvwxk)
 ### 1. Visibility of system status
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
