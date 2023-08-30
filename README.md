@@ -13,6 +13,10 @@
   - [How to write user stories](https://uxbooth.com/articles/user-stories-a-foundation-for-ui-design/)
   - [The difference between user stories and use cases](https://uxmag.com/articles/user-stories-vs-use-cases-how-they-stack-up)
 - Scenarios
+  - [Why you need scenarios](https://uxplanet.org/everyone-needs-scenarios-51ae92651b64)
+  - [Two part article which offers a firm understanding of the concept of Scenarios (Part 1)](https://www.uxforthemasses.com/scenarios-part-one/)
+  - [Two part article which offers a firm understanding of the concept of Scenarios (Part 2)](https://www.uxforthemasses.com/scenarios-part-two/)
 - Storyboarding
+  - [Storyboards in website design](https://www.studiobinder.com/blog/storyboard-website-design/)
 ## UI
 - Use [Figma](https://www.figma.com/) for design prototype
