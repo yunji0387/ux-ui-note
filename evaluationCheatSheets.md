@@ -1,4 +1,10 @@
-# Dieter Ram's 10 Principles of Good Design | [video](https://www.youtube.com/watch?v=4Cxr2h_wE34)
+# Table of Contents
+1. [Dieter Ram's 10 Principles of Good Design](#dieter_section)
+2. [Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design](#jakob_section)
+3. [Ben Shneidermann's 8 Golden Rules of Interface Design](#ben_section)
+
+<a id="dieter_section"></a>
+## Dieter Ram's 10 Principles of Good Design | [video](https://www.youtube.com/watch?v=4Cxr2h_wE34)
 ### 1. Good design is innovative
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
@@ -99,7 +105,8 @@ Design should always be intentional. Anything that doesn't serve a purpose for t
 <!-- /MarkdownTOC -->
 </details>
 
-# Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design | [video](https://www.youtube.com/watch?v=6Bw0n6Jvwxk)
+<a id="jakob_section"></a>
+## Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design | [video](https://www.youtube.com/watch?v=6Bw0n6Jvwxk)
 ### 1. Visibility of system status
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
@@ -200,7 +207,8 @@ Even though it is preferable that your system can be used without documentation.
 <!-- /MarkdownTOC -->
 </details>
 
-# Ben Shneidermann's 8 Golden Rules of Interface Design
+<a id="ben_section"></a>
+## Ben Shneidermann's 8 Golden Rules of Interface Design
 
 ### 1. Strive for consistency
 <details close>
