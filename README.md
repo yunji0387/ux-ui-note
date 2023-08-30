@@ -85,3 +85,23 @@
 
 <!-- /MarkdownTOC -->
 </details>
+
+### [Form Design Practice](./notes/form_design_practice.md)
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+
+#### Design principles
+- [An article on form design and best principles](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
+
+- [Design systems explained in detail](https://www.nngroup.com/articles/design-systems-101/)
+
+- [Current inspirational design systems](https://uxplanet.org/10-most-popular-design-systems-to-learn-from-in-2022-for-ux-designers-18a24843a860)
+
+#### Design tips
+- [Good tips to help improve any online form](https://uxplanet.org/the-18-must-do-principles-in-the-form-design-fe89d0127c92)
+
+- [Component design and ways of using them](https://wereheavyweight.medium.com/how-were-using-component-based-design-5f9e3176babb)
+
+<!-- /MarkdownTOC -->
+</details>
