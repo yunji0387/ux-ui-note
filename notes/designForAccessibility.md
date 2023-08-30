@@ -50,7 +50,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+To make interactive elements such as links and buttons easier to identify, consider using distinct styles. This can be done by, for example, changing the appearance of links on mouse hover, keyboard focus and touch-screen activation. Ensure that the interactive elements' styles and naming are consistent throughout the website. Some users may not be able to use a mouse and may rely solely on their keyboard to navigate web pages. It is critical that users can use the keyboard to access all interactive elements and that it is clear which element is interactive. A border or highlight that moves as you tab through the web page could be used to indicate visible keyboard focus. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -60,7 +60,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+It is important that each field has a descriptive label, except for checkboxes and radio buttons. Checkboxes are typically placed to the right, and labels are from left to right. Languages are positioned to the left or above the area. It is always good to check that there isn't too much space between the labels and the fields. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -70,7 +70,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+Navigation across pages on a website should be consistent in terms of naming, styling and positioning. A good tactic is to provide more than one way to navigate your websites, such as a site search or a site map. You can also use orientation cues, such as breadcrumbs and clear headings, to help users understand where they are on a website or page. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -80,7 +80,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+Feedback for interactions such as form submission confirmation and notifying the user when something goes wrong can be very valuable. If there are any instructions, they should be clear. Important feedback that includes user action should be displayed in a place where it can easily be seen. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -90,7 +90,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+Whitespace and proximity help to highlight relationships between content. Headings can help you to organize content, decrease clutter and make it simpler to scan and understand. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -100,7 +100,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+Think about how page information is displayed in different viewport sizes, such as mobile phones or zoomed browser windows. The placement and appearance of main elements, such as the header and navigation, can be changed to make the most of the space. It is helpful to check that the text size and line width are set to maximize readability and legibility. 
 
 <!-- /MarkdownTOC -->
 </details>
@@ -110,7 +110,7 @@ The contrast between the foreground and background colors must be sufficient. Th
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
 
-
+You can allow users to stop any animations or auto-playing sounds with visible controls. This holds true for carousels, image sliders, background music and videos. 
 
 <!-- /MarkdownTOC -->
 </details>
