@@ -1,6 +1,10 @@
 # ux-ui-note
 
 ## UX
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+  
 - [UX explaination](https://maze.co/collections/ux-ui-design/what-is-ux/)
 - [UX design process](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
 - User Research
@@ -18,10 +22,21 @@
   - [Two part article which offers a firm understanding of the concept of Scenarios (Part 2)](https://www.uxforthemasses.com/scenarios-part-two/)
 - Storyboarding
   - [Storyboards in website design](https://www.studiobinder.com/blog/storyboard-website-design/)
+
+<!-- /MarkdownTOC -->
+</details>
+
 ## UI
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+
 - [UI design principles and tips for creating great UI](https://www.coursera.org/articles/ui-design)
 - [A comprehensive guide to the discipline of UI design](https://www.interaction-design.org/literature/topics/ui-design)
 - User research
   - [UI at its worst, an amusing but infuriating example of UI design .. Worth a look!](https://userinyerface.com/)
   - [A description on what Is UI Design](https://xd.adobe.com/ideas/process/ui-design/)
 - Use [Figma](https://www.figma.com/) for design prototype
+
+<!-- /MarkdownTOC -->
+</details>
