@@ -114,3 +114,21 @@ The contrast between the foreground and background colors must be sufficient. Th
 
 <!-- /MarkdownTOC -->
 </details>
+
+
+## Additional Resources for Design tips & methods
+- [Designing for accessibility top tips to get you started](https://www.w3.org/WAI/tips/designing/)
+
+- [Designing for accessibility top tips to get you started](https://www.interaction-design.org/literature/topics/accessibility)
+
+- [Good tips to help Improve any Online Form](https://uxplanet.org/the-18-must-do-principles-in-the-form-design-fe89d0127c92)
+
+- [Usability methods](https://www.usability.gov/how-to-and-tools/methods/usability-evaluation/index.html)
+
+- [Component design and ways of using them](https://wereheavyweight.medium.com/how-were-using-component-based-design-5f9e3176babb)
+
+- [An article on form design and best principles](https://xd.adobe.com/ideas/principles/web-design/best-practices-form-design/)
+
+- [Design systems explained in detail](https://www.nngroup.com/articles/design-systems-101/)
+
+- [Current inspirational design systems](https://uxplanet.org/10-most-popular-design-systems-to-learn-from-in-2022-for-ux-designers-18a24843a860)
