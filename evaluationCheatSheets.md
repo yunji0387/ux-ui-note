@@ -1,5 +1,5 @@
 # Dieter Ram's 10 Principles of Good Design
-## Good design is innovative
+### 1. Good design is innovative
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -9,7 +9,7 @@ Whether you are making a change or doing something in a new way, developing new 
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design makes a product useful
+### 2. Good design makes a product useful
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -19,7 +19,7 @@ It doesn't matter how stunning a product looks if it is practically unusable as 
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is aesthetic
+### 3. Good design is aesthetic
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -29,7 +29,7 @@ Beautiful items tend to make us feel comfortable. If a product is beautiful, you
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design makes a product understandable
+### 4. Good design makes a product understandable
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -39,7 +39,7 @@ For example, handles on doors that don't indicate if they should be pushed or pu
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is unobtrusive
+### 5. Good design is unobtrusive
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -49,7 +49,7 @@ An obtrusive product is an over-designed product. Products that tend to fail are
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is honest
+### 6. Good design is honest
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -59,7 +59,7 @@ Good design doesn't have tricks! It doesn't pretend to be something that it isn'
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is long-lasting
+### 7. Good design is long-lasting
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -69,7 +69,7 @@ Design should always be thorough to the last detail and avoids being fashionable
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is thorough down to the last detail
+### 8. Good design is thorough down to the last detail
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -79,7 +79,7 @@ A Good design should be detail-oriented and leave nothing to chance. Every singl
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is environmentally friendly
+### 9. Good design is environmentally friendly
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -89,7 +89,7 @@ Pollution can arise from wasted resources throughout a product's lifespan. Desig
 <!-- /MarkdownTOC -->
 </details>
 
-## Good design is as little as possible
+### 10. Good design is as little as possible
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -100,7 +100,7 @@ Design should always be intentional. Anything that doesn't serve a purpose for t
 </details>
 
 # Jakob Nielsen's Heuristics: 10 Usability Principles to Improve UI Design
-## Visibility of system status
+### 1. Visibility of system status
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -110,7 +110,7 @@ Explore your smartphone. Right after the screen lights up, it informs you about 
 <!-- /MarkdownTOC -->
 </details>
 
-## Match between the system and the real world
+### 2. Match between the system and the real world
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -120,7 +120,7 @@ Users may make assumptions about how a system will work based on their previous 
 <!-- /MarkdownTOC -->
 </details>
 
-## User control and freedom
+### 3. User control and freedom
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -130,7 +130,7 @@ Digital spaces, like physical spaces, require quick 'emergency exits'. Users fre
 <!-- /MarkdownTOC -->
 </details>
 
-## Consistency and standards
+### 4. Consistency and standards
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -140,7 +140,7 @@ Consistency is the key. A 'submit' button on one page should look the same acros
 <!-- /MarkdownTOC -->
 </details>
 
-## Error prevention
+### 5. Error prevention
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -150,7 +150,7 @@ A careful design that prevents a problem from occurring in the first place is ev
 <!-- /MarkdownTOC -->
 </details>
 
-## Recognition rather than recall
+### 6. Recognition rather than recall
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -160,7 +160,7 @@ Allow your users to recognize information in the user interface rather than expe
 <!-- /MarkdownTOC -->
 </details>
 
-## Flexibility and efficiency of use
+### 7. Flexibility and efficiency of use
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -170,7 +170,7 @@ Simply put, your system must be designed so that both experienced and inexperien
 <!-- /MarkdownTOC -->
 </details>
 
-## Aesthetic and minimalistic design
+### 8. Aesthetic and minimalistic design
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -180,7 +180,7 @@ Make a fantastic first impression! Users notice aesthetics or how visually appea
 <!-- /MarkdownTOC -->
 </details>
 
-## Help users recognize, diagnose and recover from errors
+### 9. Help users recognize, diagnose and recover from errors
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -190,7 +190,7 @@ A good error message should be polite, easy to understand, precise, constructive
 <!-- /MarkdownTOC -->
 </details>
 
-## Help and documentation
+### 10. Help and documentation
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -202,7 +202,7 @@ Even though it is preferable that your system can be used without documentation.
 
 # Ben Shneidermann's 8 Golden Rules of Interface Design
 
-## Strive for consistency
+### 1. Strive for consistency
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -212,7 +212,7 @@ Consistency is critical to maintaining uniformity throughout the site, whether i
 <!-- /MarkdownTOC -->
 </details>
 
-## Enable frequent users to use shortcuts
+### 2. Enable frequent users to use shortcuts
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -222,7 +222,7 @@ Think about allowing your users to access all areas of your website with a few c
 <!-- /MarkdownTOC -->
 </details>
 
-## Offer informative feedback
+### 3. Offer informative feedback
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -232,7 +232,7 @@ If your users have completed or are completing activities on your website, it is
 <!-- /MarkdownTOC -->
 </details>
 
-## Design dialog to yield closure
+### 4. Design dialog to yield closure
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -242,7 +242,7 @@ All interactions must have a beginning, middle and end. Once a task is completed
 <!-- /MarkdownTOC -->
 </details>
 
-## Offer simple error handling
+### 5. Offer simple error handling
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -252,7 +252,7 @@ An interface should be designed to eliminate as many errors as possible. If some
 <!-- /MarkdownTOC -->
 </details>
 
-## Permit easy reversal of actions
+### 6. Permit easy reversal of actions
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -262,7 +262,7 @@ Finding that there is an "undo" option after making a mistake is a huge relief. 
 <!-- /MarkdownTOC -->
 </details>
 
-## Support internal locus of control
+### 7. Support internal locus of control
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
@@ -272,7 +272,7 @@ It is essential to give your users control and freedom so that they feel in cont
 <!-- /MarkdownTOC -->
 </details>
 
-## Reduce short-term memory load
+### 8. Reduce short-term memory load
 <details close>
 <summary><b>(click to expand/hide)</b></summary>
 <!-- MarkdownTOC -->
