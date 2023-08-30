@@ -1,4 +1,4 @@
-# ux-ui-note
+# UX/UI Designs Note
 
 ## UX
 <details close>
