@@ -133,5 +133,16 @@
 - [10 Principles for Typography in UI Design: Typography in Design Systems](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
 - [Typography and best practice](https://medium.com/eightshapes-llc/typography-in-design-systems-6ed771432f1e)
 
-### [Usability test cheat sheet](./notes/usability_testing_cheat_sheet.md)
-### [Usability test template and Guide](./templates/usability_test_script_guide.md)
+#### Wireframing
+- [What is wireframing?](https://www.interaction-design.org/literature/topics/wireframing)
+
+### Usability testing
+<details close>
+<summary><b>(click to expand/hide)</b></summary>
+<!-- MarkdownTOC -->
+  
+#### [Usability test cheat sheet](./notes/usability_testing_cheat_sheet.md)
+#### [Usability test template and Guide](./templates/usability_test_script_guide.md)
+
+<!-- /MarkdownTOC -->
+</details>
