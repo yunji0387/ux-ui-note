@@ -170,7 +170,7 @@
 
 
 ### Design System
-- [Design System notes](design_systems.md)
+- [Design System notes](./notes/design_systems.md)
 - Design System examples
   - [Design, manage, and deploy your design systems with Figma](https://www.figma.com/design-systems/)
   - [What is a design system?](https://www.nngroup.com/articles/design-systems-101/)
