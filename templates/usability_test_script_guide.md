@@ -46,17 +46,86 @@ Reassure them that they are not being tested and that you value their time and f
 
 Establish rapport with participants by asking them some general information questions like "Would you introduce yourself?" and "What is your occupation?" "What type(s) of mobile device(s) do you use?" etc.
 
+- Example:
+
+  <details close>
+  <summary><b>(click to expand/hide)</b></summary>
+  <!-- MarkdownTOC -->
+
+  - To begin, what is your profession?
+  - What do you do during the day?
+  - What kinds of websites do you frequently visit when you surf the web?
+  - What type(s) of mobile device(s) do you use, such as smartphones or tablets?
+  - What do you spend your time doing on your devices?
+  - Do you have any favorite websites or mobile applications?
+  
+  <!-- /MarkdownTOC -->
+  </details>
+
 ## Screen tour
 
 Give the participants an overview of what they are looking at and ask general questions. For example, you could ask: What do you think the screen is for?
+
+- Example:
+
+  <details close>
+  <summary><b>(click to expand/hide)</b></summary>
+  <!-- MarkdownTOC -->
+
+  - That's fantastic. 
+  - We've completed the questions, and the next step is to begin looking at things.
+  - First, I'd like you to look at the product details screen and tell me what you think of it: what you can do here and what it is for.
+  
+  <!-- /MarkdownTOC -->
+  </details>
 
 ## The tasks
 
 Let participants know how you will guide them through the tasks. Give an overview of the tasks they are required to do. Remember, the test is on the navigation and functions offered by the screen. Write down the answers.
 
+- Example:
+
+  <details close>
+  <summary><b>(click to expand/hide)</b></summary>
+  <!-- MarkdownTOC -->
+
+  We're now ready to start the test. I'd like to remind you of a few things. You can use the software as naturally as possible on your own, as if no one is watching.
+
+  Please think aloud as you're using our program. I'm going to ask you to do these tasks without using Search. We want to hear your opinions, like where you're navigating on the page, why you would click there, and what you expect to happen when you do click. If you have any questions during the test, I'll try to answer them when we're done.
+
+  I'm now going to read the test steps aloud, and give you a printed copy. The steps are:
+
+  1. Do you know how to navigate to other pages?
+  2. What do you expect the basket icon is for?
+  3. Can you find a way of returning to the previous page?
+  4. Do you understand how to customize the order?
+  5. What does the + 1 – mean at the lower end of the screen?
+  6. If you make a mistake, can you rectify it?
+  7. What is the Checkout button supposed to do?
+
+  <!-- /MarkdownTOC -->
+  </details>
+
 ## Wrap-up questions and feedback
 
 After each task, ask a few questions and conduct a rating exercise to elicit more feedback and information about the users' reasoning.
+
+- Example:
+
+  <details close>
+  <summary><b>(click to expand/hide)</b></summary>
+  <!-- MarkdownTOC -->
+
+  - How was your experience completing these tasks?
+  - What do you think of the location of the features and information?
+  - I would like you to rate the tasks one by one
+  - On a scale of 1 to 5, how difficult would you rate it? Why?
+  - Was there anything complicated about the task?
+  - Were things exactly as you expected?   
+
+  <!-- /MarkdownTOC -->
+  </details>
+
 
 ## Post-Test Interview
 
@@ -65,3 +134,16 @@ You don't have to ask many questions, but it's essential to have a few prepared.
 Answer any questions the participants may have.
 
 Thank the participants.
+
+- Example:
+
+  <details close>
+  <summary><b>(click to expand/hide)</b></summary>
+  <!-- MarkdownTOC -->
+
+  - Do you have any questions?
+  - Was there anything you felt was missing or thought could have been better? 
+  - Thank you again for taking the time out of your day to participate in this study with us. Your input today will be beneficial to us. 
+
+  <!-- /MarkdownTOC -->
+  </details>
