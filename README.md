@@ -143,6 +143,10 @@
   
 #### [Usability test cheat sheet](./notes/usability_testing_cheat_sheet.md)
 #### [Usability test template and Guide](./templates/usability_test_script_guide.md)
+- [Usability testing methodology](https://www.nngroup.com/articles/usability-testing-101/)
+- [How to write a usability test top tips](https://usabilitygeek.com/tips-for-writing-usability-test-script/)
+- [Usability testing methods](https://www.usability.gov/how-to-and-tools/methods/index.html)
+- [How to plan a usability test](https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html)
 
 <!-- /MarkdownTOC -->
 </details>
