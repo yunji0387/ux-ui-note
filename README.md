@@ -187,3 +187,6 @@
 
 ### Form Design
 - [Nathan Curtis: components and design systems](https://medium.com/@nathanacurtis)
+
+### [Micro-interactions and micro-animations](./notes/micro_interactions_and_animations.md)
+
