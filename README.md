@@ -151,16 +151,18 @@
 <!-- /MarkdownTOC -->
 </details>
 
-#### [Design Elements and Principles](./notes/design_elements_and_principles.md)
+### [Design Elements and Principles](./notes/design_elements_and_principles.md)
 
-#### Prototyping
+### Prototyping
 - [High-Fidelity & Low-Fidelity Prototyping.](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
+- [What is prototyping?](https://www.interaction-design.org/literature/topics/prototyping)
+- [Types of Prototyping](https://www.nngroup.com/articles/microinteractions/)
 
-#### UI components
+### UI components
 - [Creating a UI Component Design System](https://medium.muz.li/creating-a-ui-component-design-system-step-by-step-guide-5c18b5a2f529)
 - [The architecture of a component](https://uxdesign.cc/the-architecture-of-a-component-526e88f9d93e)
 
-#### Mood boards
+### Mood boards
 - [Mood boards in design](./notes/mood_boards_in_design.md)
 - [What are mood boards and How it is Important in UX Design World?](https://medium.com/successivetech/what-are-mood-boards-and-how-it-is-important-in-ux-design-world-d4afbdbc2f17)
 - [How to make a mood board step by step](https://www.masterclass.com/articles/how-to-make-a-moodboard-step-by-step-guide)
@@ -179,7 +181,6 @@
   - [Design Systems: A Practical Guide to Creating Design Languages for Digital Products](https://books.google.co.za/books/about/Design_Systems.html?id=UWhMswEACAAJ&redir_esc=y)
 
 ### Material Design
-
 - [Examples of Ease of Use and Tools](https://m3.material.io/)
 - [Atlassian: an example of comprehensiveness](https://atlassian.design/)
 - [Polaris from Shopify: the incorporation of design into the workflows of designers and developers.](https://polaris.shopify.com/)
@@ -190,3 +191,6 @@
 
 ### [Micro-interactions and micro-animations](./notes/micro_interactions_and_animations.md)
 
+### Micro-animations with Figma tutorial
+- [Micro-Animations with Figma Tutorial](https://www.youtube.com/watch?v=0YIovQXnwBY&ab_channel=developedbyed)
+- [How to test your prototype and gather feedback](https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning)
